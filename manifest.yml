@@ -1,0 +1,3 @@
+---
+- name: gsheets
+  memory: 256M
